@@ -1,0 +1,8 @@
+{
+  "serverPort": 5000,
+  "mongoUrl": "mongodb+srv://ejararv:6077832Gt@cluster0.lgg1v.mongodb.net/my-cloud?retryWrites=true&w=majority",
+  "secretKey": "6077832Gt",
+  "baseUrl": "http://localhost:3000",
+  "filePath": "E:\\React\\CloudStorage\\cloud-storage\\files",
+  "staticPath": "E:\\React\\CloudStorage\\cloud-storage\\static"
+}
